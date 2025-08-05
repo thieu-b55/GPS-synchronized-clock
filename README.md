@@ -1,9 +1,12 @@
 # GPS-synchronized-clock
+
+GPS-synchronized-clock
+
 Simple clock that always shows the correct time. GPS reception required.
 
 Selection between summer time and winter time must be done manually.
 
-Only a few components and easy to build
+Only a few components and easy to build even on a breadboard
 
 Built around an ATMEGA328P chip or board
 
@@ -21,6 +24,23 @@ Bootloader: "No bootloader"
 
 Clock: "Internal 8MHz"
 
-Build it, give it to your girlfriend / friend and they will have no reason to be late anymore
-
 No impact on your finances
+
+Ideal for Arduino beginners
+
+Serial communication
+
+I2C communication
+
+SPI communication
+
+Analog input
+
+Digital input
+
+Interrupt subroutine
+
+Use of a 2-dimensional array
+
+Beautiful end result
+
